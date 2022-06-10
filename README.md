@@ -9,7 +9,28 @@ The purpose of this project is to organize UFO data stored in a JavaScrpt array 
 ## Results
 ### DELETE ME: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
+The filters have defined defaults that do not affect the table but show the user the proper format of each field:
+![image](https://github.com/Bryan-Corn/UFOs/blob/main/Readme_Images/UFO.png)
 
+
+
+![image](https://github.com/Bryan-Corn/UFOs/blob/main/Readme_Images/UFO_1.png)
+
+
+
+![image](https://github.com/Bryan-Corn/UFOs/blob/main/Readme_Images/UFO_2.png)
+
+
+
+![image](https://github.com/Bryan-Corn/UFOs/blob/main/Readme_Images/UFO_3.png)
+
+
+
+![image](https://github.com/Bryan-Corn/UFOs/blob/main/Readme_Images/UFO_4.png)
+
+
+
+![image](https://github.com/Bryan-Corn/UFOs/blob/main/Readme_Images/UFO_5.png)
 
 ## Summary
 ### DELETE ME: In a summary statement, describe one drawback of this new design and two recommendations for further development.
