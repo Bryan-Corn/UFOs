@@ -35,6 +35,9 @@ Finally, the shape of the reported object is the last filter:
 To reset the filters to default, the user can delete any entry in a filter field and hit enter.
 
 ## Summary
+
+### Filter Limitations
 One issue with this design is that the filter entries must match the data exactly. This requires standardization of the columns for which we have a filter. Filtering the 'duration' element would be very difficult as the data for duration is diverse. A possible fix for this would be to group the durations into defined categories.
 
+### Data Limitations
 Another limitation is that the database is static and pretty limited. Adding more sightings would be beneficial but would require a lot of cleaning to match the existing data. Adding new sightings as they occur would go a long way in increasing this webpage's utility.
